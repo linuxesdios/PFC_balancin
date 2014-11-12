@@ -10,7 +10,7 @@ La realizacion es mediante
  - 2 botones
  - 6 led 
  
-![PhotoView](https://github.com/linuxesdios/PFC_balancin/imagen.jpg?raw=true)
+![PhotoView](https://github.com/linuxesdios/PFC_balancin/blob/master/documentacion/imagen.jpg?raw=true)
 
 
 ## License
