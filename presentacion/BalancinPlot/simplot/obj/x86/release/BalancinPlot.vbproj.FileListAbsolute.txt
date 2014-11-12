@@ -1,0 +1,16 @@
+D:\Dropbox\raul y pablo\Programas\BalancinPlot\SimPlot\bin\Release\Balancin(pfc).exe.manifest
+D:\Dropbox\raul y pablo\Programas\BalancinPlot\SimPlot\bin\Release\Balancin(pfc).application
+D:\Dropbox\raul y pablo\Programas\BalancinPlot\SimPlot\bin\Release\Balancin(pfc).exe
+D:\Dropbox\raul y pablo\Programas\BalancinPlot\SimPlot\bin\Release\Balancin(pfc).pdb
+D:\Dropbox\raul y pablo\Programas\BalancinPlot\SimPlot\bin\Release\Balancin(pfc).xml
+D:\Dropbox\raul y pablo\Programas\BalancinPlot\SimPlot\obj\x86\Release\Balancin.plotSetup.resources
+D:\Dropbox\raul y pablo\Programas\BalancinPlot\SimPlot\obj\x86\Release\Balancin.mainForm.resources
+D:\Dropbox\raul y pablo\Programas\BalancinPlot\SimPlot\obj\x86\Release\Balancin.Resources.resources
+D:\Dropbox\raul y pablo\Programas\BalancinPlot\SimPlot\obj\x86\Release\BalancinPlot.vbproj.GenerateResource.Cache
+D:\Dropbox\raul y pablo\Programas\BalancinPlot\SimPlot\obj\x86\Release\Balancin(pfc).TrustInfo.xml
+D:\Dropbox\raul y pablo\Programas\BalancinPlot\SimPlot\obj\x86\Release\Balancin(pfc).exe.manifest
+D:\Dropbox\raul y pablo\Programas\BalancinPlot\SimPlot\obj\x86\Release\Balancin(pfc).application
+D:\Dropbox\raul y pablo\Programas\BalancinPlot\SimPlot\obj\x86\Release\Balancin(pfc).exe
+D:\Dropbox\raul y pablo\Programas\BalancinPlot\SimPlot\obj\x86\Release\Balancin(pfc).xml
+D:\Dropbox\raul y pablo\Programas\BalancinPlot\SimPlot\obj\x86\Release\Balancin(pfc).pdb
+D:\Dropbox\raul y pablo\Programas\BalancinPlot\SimPlot\obj\x86\Release\BalancinPlot.vbprojResolveAssemblyReference.cache
