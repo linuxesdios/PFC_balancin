@@ -1,0 +1,105 @@
+C:\Users\Raul\Desktop\projectsimplot\SimPlot\obj\x86\Release\SimPlot.vbproj.GenerateResource.Cache
+C:\Users\Raul\Desktop\projectsimplot\SimPlot\bin\Release\QuadPablo.exe.manifest
+C:\Users\Raul\Desktop\projectsimplot\SimPlot\bin\Release\QuadPablo.application
+C:\Users\Raul\Desktop\projectsimplot\SimPlot\bin\Release\QuadPablo.exe
+C:\Users\Raul\Desktop\projectsimplot\SimPlot\bin\Release\QuadPablo.pdb
+C:\Users\Raul\Desktop\projectsimplot\SimPlot\bin\Release\QuadPablo.xml
+C:\Users\Raul\Desktop\projectsimplot\SimPlot\obj\x86\Release\QuadPablo.plotSetup.resources
+C:\Users\Raul\Desktop\projectsimplot\SimPlot\obj\x86\Release\QuadPablo.mainForm.resources
+C:\Users\Raul\Desktop\projectsimplot\SimPlot\obj\x86\Release\QuadPablo.Resources.resources
+C:\Users\Raul\Desktop\projectsimplot\SimPlot\obj\x86\Release\QuadPablo.TrustInfo.xml
+C:\Users\Raul\Desktop\projectsimplot\SimPlot\obj\x86\Release\QuadPablo.exe.manifest
+C:\Users\Raul\Desktop\projectsimplot\SimPlot\obj\x86\Release\QuadPablo.application
+C:\Users\Raul\Desktop\projectsimplot\SimPlot\obj\x86\Release\QuadPablo.exe
+C:\Users\Raul\Desktop\projectsimplot\SimPlot\obj\x86\Release\QuadPablo.xml
+C:\Users\Raul\Desktop\projectsimplot\SimPlot\obj\x86\Release\QuadPablo.pdb
+C:\Users\pablo\Desktop\a\projectsimplot\SimPlot\obj\x86\Release\QuadPablo.exe
+C:\Users\pablo\Desktop\a\projectsimplot\SimPlot\obj\x86\Release\QuadPablo.xml
+C:\Users\pablo\Desktop\a\projectsimplot\SimPlot\obj\x86\Release\QuadPablo.pdb
+C:\Users\pablo\Desktop\a\projectsimplot\SimPlot\bin\Release\QuadPablo.exe.manifest
+C:\Users\pablo\Desktop\a\projectsimplot\SimPlot\bin\Release\QuadPablo.application
+C:\Users\pablo\Desktop\a\projectsimplot\SimPlot\bin\Release\QuadPablo.exe
+C:\Users\pablo\Desktop\a\projectsimplot\SimPlot\bin\Release\QuadPablo.pdb
+C:\Users\pablo\Desktop\a\projectsimplot\SimPlot\bin\Release\QuadPablo.xml
+C:\Users\pablo\Desktop\a\projectsimplot\SimPlot\obj\x86\Release\QuadPablo.plotSetup.resources
+C:\Users\pablo\Desktop\a\projectsimplot\SimPlot\obj\x86\Release\QuadPablo.mainForm.resources
+C:\Users\pablo\Desktop\a\projectsimplot\SimPlot\obj\x86\Release\QuadPablo.Resources.resources
+C:\Users\pablo\Desktop\a\projectsimplot\SimPlot\obj\x86\Release\SimPlot.vbproj.GenerateResource.Cache
+C:\Users\pablo\Desktop\a\projectsimplot\SimPlot\obj\x86\Release\QuadPablo.TrustInfo.xml
+C:\Users\pablo\Desktop\a\projectsimplot\SimPlot\obj\x86\Release\QuadPablo.exe.manifest
+C:\Users\pablo\Desktop\a\projectsimplot\SimPlot\obj\x86\Release\QuadPablo.application
+C:\Users\pablo\Documents\GitHub\Quadcopter\software\projectsimplot\SimPlot\obj\x86\Release\SimPlot.vbproj.GenerateResource.Cache
+C:\Users\pablo\Documents\prueba\projectsimplot\SimPlot\obj\x86\Release\QuadPablo.exe
+C:\Users\pablo\Documents\prueba\projectsimplot\SimPlot\obj\x86\Release\QuadPablo.xml
+C:\Users\pablo\Documents\prueba\projectsimplot\SimPlot\obj\x86\Release\QuadPablo.pdb
+C:\Users\pablo\Documents\prueba\projectsimplot\SimPlot\obj\x86\Release\QuadPablo.plotSetup.resources
+C:\Users\pablo\Documents\prueba\projectsimplot\SimPlot\obj\x86\Release\QuadPablo.mainForm.resources
+C:\Users\pablo\Documents\prueba\projectsimplot\SimPlot\obj\x86\Release\QuadPablo.Resources.resources
+C:\Users\pablo\Documents\prueba\projectsimplot\SimPlot\obj\x86\Release\SimPlot.vbproj.GenerateResource.Cache
+C:\Users\pablo\Documents\prueba\projectsimplot\SimPlot\bin\Release\QuadPablo.exe.manifest
+C:\Users\pablo\Documents\prueba\projectsimplot\SimPlot\bin\Release\QuadPablo.application
+C:\Users\pablo\Documents\prueba\projectsimplot\SimPlot\bin\Release\QuadPablo.exe
+C:\Users\pablo\Documents\prueba\projectsimplot\SimPlot\bin\Release\QuadPablo.pdb
+C:\Users\pablo\Documents\prueba\projectsimplot\SimPlot\bin\Release\QuadPablo.xml
+C:\Users\pablo\Documents\prueba\projectsimplot\SimPlot\obj\x86\Release\QuadPablo.TrustInfo.xml
+C:\Users\pablo\Documents\prueba\projectsimplot\SimPlot\obj\x86\Release\QuadPablo.exe.manifest
+C:\Users\pablo\Documents\prueba\projectsimplot\SimPlot\obj\x86\Release\QuadPablo.application
+C:\Users\Raul\Desktop\projectsimplot\projectsimplot\SimPlot\obj\x86\Release\SimPlot.vbproj.GenerateResource.Cache
+D:\descargas\Para Pablo\projectsimplot\SimPlot\obj\x86\Release\QuadPablo.xml
+D:\descargas\Para Pablo\projectsimplot\SimPlot\obj\x86\Release\QuadPablo.pdb
+D:\descargas\Para Pablo\projectsimplot\SimPlot\bin\Release\QuadPablo.exe.manifest
+D:\descargas\Para Pablo\projectsimplot\SimPlot\bin\Release\QuadPablo.application
+D:\descargas\Para Pablo\projectsimplot\SimPlot\bin\Release\QuadPablo.exe
+D:\descargas\Para Pablo\projectsimplot\SimPlot\bin\Release\QuadPablo.pdb
+D:\descargas\Para Pablo\projectsimplot\SimPlot\bin\Release\QuadPablo.xml
+D:\descargas\Para Pablo\projectsimplot\SimPlot\obj\x86\Release\QuadPablo.plotSetup.resources
+D:\descargas\Para Pablo\projectsimplot\SimPlot\obj\x86\Release\QuadPablo.mainForm.resources
+D:\descargas\Para Pablo\projectsimplot\SimPlot\obj\x86\Release\QuadPablo.Resources.resources
+D:\descargas\Para Pablo\projectsimplot\SimPlot\obj\x86\Release\SimPlot.vbproj.GenerateResource.Cache
+D:\descargas\Para Pablo\projectsimplot\SimPlot\obj\x86\Release\QuadPablo.TrustInfo.xml
+D:\descargas\Para Pablo\projectsimplot\SimPlot\obj\x86\Release\QuadPablo.exe.manifest
+D:\descargas\Para Pablo\projectsimplot\SimPlot\obj\x86\Release\QuadPablo.application
+D:\descargas\Para Pablo\projectsimplot\SimPlot\obj\x86\Release\QuadPablo.exe
+C:\Users\pablo\Documents\GitHub\Quadcopter\software\projectsimplot\SimPlot\bin\Release\Balancin(pfc).exe.manifest
+C:\Users\pablo\Documents\GitHub\Quadcopter\software\projectsimplot\SimPlot\bin\Release\Balancin(pfc).application
+C:\Users\pablo\Documents\GitHub\Quadcopter\software\projectsimplot\SimPlot\bin\Release\Balancin(pfc).exe
+C:\Users\pablo\Documents\GitHub\Quadcopter\software\projectsimplot\SimPlot\bin\Release\Balancin(pfc).pdb
+C:\Users\pablo\Documents\GitHub\Quadcopter\software\projectsimplot\SimPlot\bin\Release\Balancin(pfc).xml
+C:\Users\pablo\Documents\GitHub\Quadcopter\software\projectsimplot\SimPlot\obj\x86\Release\Balancin.plotSetup.resources
+C:\Users\pablo\Documents\GitHub\Quadcopter\software\projectsimplot\SimPlot\obj\x86\Release\Balancin.mainForm.resources
+C:\Users\pablo\Documents\GitHub\Quadcopter\software\projectsimplot\SimPlot\obj\x86\Release\Balancin.Resources.resources
+C:\Users\pablo\Documents\GitHub\Quadcopter\software\projectsimplot\SimPlot\obj\x86\Release\Balancin(pfc).TrustInfo.xml
+C:\Users\pablo\Documents\GitHub\Quadcopter\software\projectsimplot\SimPlot\obj\x86\Release\Balancin(pfc).exe.manifest
+C:\Users\pablo\Documents\GitHub\Quadcopter\software\projectsimplot\SimPlot\obj\x86\Release\Balancin(pfc).application
+C:\Users\pablo\Documents\GitHub\Quadcopter\software\projectsimplot\SimPlot\obj\x86\Release\Balancin(pfc).exe
+C:\Users\pablo\Documents\GitHub\Quadcopter\software\projectsimplot\SimPlot\obj\x86\Release\Balancin(pfc).xml
+C:\Users\pablo\Documents\GitHub\Quadcopter\software\projectsimplot\SimPlot\obj\x86\Release\Balancin(pfc).pdb
+C:\Users\Raul\Desktop\projectsimplot\projectsimplot\SimPlot\obj\x86\Release\Balancin(pfc).exe
+C:\Users\Raul\Desktop\projectsimplot\projectsimplot\SimPlot\obj\x86\Release\Balancin(pfc).xml
+C:\Users\Raul\Desktop\projectsimplot\projectsimplot\SimPlot\obj\x86\Release\Balancin(pfc).pdb
+C:\Users\Raul\Desktop\projectsimplot\projectsimplot\SimPlot\bin\Release\Balancin(pfc).exe.manifest
+C:\Users\Raul\Desktop\projectsimplot\projectsimplot\SimPlot\bin\Release\Balancin(pfc).application
+C:\Users\Raul\Desktop\projectsimplot\projectsimplot\SimPlot\bin\Release\Balancin(pfc).exe
+C:\Users\Raul\Desktop\projectsimplot\projectsimplot\SimPlot\bin\Release\Balancin(pfc).pdb
+C:\Users\Raul\Desktop\projectsimplot\projectsimplot\SimPlot\bin\Release\Balancin(pfc).xml
+C:\Users\Raul\Desktop\projectsimplot\projectsimplot\SimPlot\obj\x86\Release\Balancin.plotSetup.resources
+C:\Users\Raul\Desktop\projectsimplot\projectsimplot\SimPlot\obj\x86\Release\Balancin.mainForm.resources
+C:\Users\Raul\Desktop\projectsimplot\projectsimplot\SimPlot\obj\x86\Release\Balancin.Resources.resources
+C:\Users\Raul\Desktop\projectsimplot\projectsimplot\SimPlot\obj\x86\Release\Balancin(pfc).TrustInfo.xml
+C:\Users\Raul\Desktop\projectsimplot\projectsimplot\SimPlot\obj\x86\Release\Balancin(pfc).exe.manifest
+C:\Users\Raul\Desktop\projectsimplot\projectsimplot\SimPlot\obj\x86\Release\Balancin(pfc).application
+C:\Users\pablo\Desktop\projectsimplot\SimPlot\obj\x86\Release\Balancin(pfc).xml
+C:\Users\pablo\Desktop\projectsimplot\SimPlot\bin\Release\Balancin(pfc).exe.manifest
+C:\Users\pablo\Desktop\projectsimplot\SimPlot\bin\Release\Balancin(pfc).application
+C:\Users\pablo\Desktop\projectsimplot\SimPlot\bin\Release\Balancin(pfc).exe
+C:\Users\pablo\Desktop\projectsimplot\SimPlot\bin\Release\Balancin(pfc).pdb
+C:\Users\pablo\Desktop\projectsimplot\SimPlot\bin\Release\Balancin(pfc).xml
+C:\Users\pablo\Desktop\projectsimplot\SimPlot\obj\x86\Release\Balancin.plotSetup.resources
+C:\Users\pablo\Desktop\projectsimplot\SimPlot\obj\x86\Release\Balancin.mainForm.resources
+C:\Users\pablo\Desktop\projectsimplot\SimPlot\obj\x86\Release\Balancin.Resources.resources
+C:\Users\pablo\Desktop\projectsimplot\SimPlot\obj\x86\Release\SimPlot.vbproj.GenerateResource.Cache
+C:\Users\pablo\Desktop\projectsimplot\SimPlot\obj\x86\Release\Balancin(pfc).TrustInfo.xml
+C:\Users\pablo\Desktop\projectsimplot\SimPlot\obj\x86\Release\Balancin(pfc).exe.manifest
+C:\Users\pablo\Desktop\projectsimplot\SimPlot\obj\x86\Release\Balancin(pfc).application
+C:\Users\pablo\Desktop\projectsimplot\SimPlot\obj\x86\Release\Balancin(pfc).exe
+C:\Users\pablo\Desktop\projectsimplot\SimPlot\obj\x86\Release\Balancin(pfc).pdb

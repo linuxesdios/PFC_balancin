@@ -10,7 +10,7 @@ La realizacion es mediante
  - 2 botones
  - 6 led 
  
-![PhotoView](https://github.com/linuxesdios/Amuva-Azog/blob/master/azog_fotografias/circuito%20board.png?raw=true)
+![PhotoView](https://github.com/linuxesdios/PFC_balancin/imagen.jpg?raw=true)
 
 
 ## License

@@ -1,0 +1,15 @@
+C:\Users\Raul\Desktop\projectsimplot\projectsimplot\SimPlot\bin\Debug\Balancin(pfc).exe.manifest
+C:\Users\Raul\Desktop\projectsimplot\projectsimplot\SimPlot\bin\Debug\Balancin(pfc).application
+C:\Users\Raul\Desktop\projectsimplot\projectsimplot\SimPlot\bin\Debug\Balancin(pfc).exe
+C:\Users\Raul\Desktop\projectsimplot\projectsimplot\SimPlot\bin\Debug\Balancin(pfc).pdb
+C:\Users\Raul\Desktop\projectsimplot\projectsimplot\SimPlot\bin\Debug\Balancin(pfc).xml
+C:\Users\Raul\Desktop\projectsimplot\projectsimplot\SimPlot\obj\x86\Debug\Balancin.plotSetup.resources
+C:\Users\Raul\Desktop\projectsimplot\projectsimplot\SimPlot\obj\x86\Debug\Balancin.mainForm.resources
+C:\Users\Raul\Desktop\projectsimplot\projectsimplot\SimPlot\obj\x86\Debug\Balancin.Resources.resources
+C:\Users\Raul\Desktop\projectsimplot\projectsimplot\SimPlot\obj\x86\Debug\SimPlot.vbproj.GenerateResource.Cache
+C:\Users\Raul\Desktop\projectsimplot\projectsimplot\SimPlot\obj\x86\Debug\Balancin(pfc).TrustInfo.xml
+C:\Users\Raul\Desktop\projectsimplot\projectsimplot\SimPlot\obj\x86\Debug\Balancin(pfc).exe.manifest
+C:\Users\Raul\Desktop\projectsimplot\projectsimplot\SimPlot\obj\x86\Debug\Balancin(pfc).application
+C:\Users\Raul\Desktop\projectsimplot\projectsimplot\SimPlot\obj\x86\Debug\Balancin(pfc).exe
+C:\Users\Raul\Desktop\projectsimplot\projectsimplot\SimPlot\obj\x86\Debug\Balancin(pfc).xml
+C:\Users\Raul\Desktop\projectsimplot\projectsimplot\SimPlot\obj\x86\Debug\Balancin(pfc).pdb
